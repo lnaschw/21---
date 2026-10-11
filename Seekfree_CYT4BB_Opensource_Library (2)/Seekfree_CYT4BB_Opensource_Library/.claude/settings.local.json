@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"E:/CYT4bb7Libraryhere0 - 副本/CYT4BB7_Library-master/CYT4BB7_Library-master/Seekfree_CYT4BB_Opensource_Library/project/code\" && cat -n find.c | sed -n '326,356p')",
+      "Read(//e/CYT4bb7Libraryhere0 - 副本/CYT4BB7_Library-master/CYT4BB7_Library-master/Seekfree_CYT4BB_Opensource_Library/project/code/**)",
+      "Read(//e/CYT4bb7Libraryhere0/CYT4BB7_Library-master/CYT4BB7_Library-master/Seekfree_CYT4BB_Opensource_Library/**)",
+      "Bash(ls \"E:\\\\zfWushua\\\\CYT2BL3_Brushless_Driver_4IN1_Project-master\\\\CYT2BL3_Brushless_Driver_4IN1_Project-master\\\\CYT2BL3_Brushless_Driver_4IN1_Project\")",
+      "Read(//e/zfWushua/CYT2BL3_Brushless_Driver_4IN1_Project-master/CYT2BL3_Brushless_Driver_4IN1_Project-master/CYT2BL3_Brushless_Driver_4IN1_Project/**)"
+    ]
+  }
+}
